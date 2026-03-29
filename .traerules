@@ -1,0 +1,1 @@
+Strictly use Next.js App Router, Tailwind CSS, shadcn/ui, and Supabase client libraries. Assume all data security is handled by PostgreSQL RLS. Wrap all external APIs in try-catch blocks with toast notifications. Do not hallucinate dummy data; prepare everything to connect to Supabase.
