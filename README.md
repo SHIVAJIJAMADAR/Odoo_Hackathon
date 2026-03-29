@@ -34,16 +34,17 @@ We built an **AI-assisted, rule-driven reimbursement platform** that enables:
 - 🔐 Secure role-based access control  
 
 ---
-
 ## 🏗️ System Architecture  
-Frontend (Next.js + Tailwind + shadcn/ui)
-↓
-Server Actions (Next.js)
-↓
-Backend (Supabase - PostgreSQL + Auth + RLS)
-↓
-External APIs (Currency API)
 
+The system follows a modern full-stack architecture leveraging Next.js for the frontend, Supabase for backend services, and external APIs for enhanced functionality like currency conversion and OCR.
+
+- 👤 Users interact via a web interface  
+- ⚛️ Frontend handles UI and user actions  
+- 🗄️ Supabase manages authentication, database, and security (RLS)  
+- ⚙️ Server Actions handle business logic  
+- 🌍 External APIs provide currency conversion and receipt processing  
+
+![System Architecture](diagram-export-3-29-2026-6_46_56-PM.png)
 
 ---
 
