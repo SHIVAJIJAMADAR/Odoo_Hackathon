@@ -113,11 +113,6 @@ Example:
 }
 ```
 
-##Enables:
-Flexible approval flows
-No code changes required
-Scalable enterprise logic
------------------------------------------
 ## 🤖 OCR (Demo Simulation)
 
 - Upload receipt  
